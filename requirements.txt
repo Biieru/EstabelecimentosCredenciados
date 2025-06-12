@@ -1,0 +1,11 @@
+pandas
+requests
+numpy
+SQLAlchemy
+pymysql
+black
+matplotlib
+scikit-learn
+seaborn
+prophet
+plotly
